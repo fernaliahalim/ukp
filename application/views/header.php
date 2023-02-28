@@ -4,11 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="description" content="Cek Jadwal UKP Polda Sumsel">
-	<meta name="keywords" content="Cek Jadwal UKP Polda Sumsel, Cek UKP Polri, UKP Polda Sumsel, Subbag Pangkat Polda Sumsel">
+	<meta name="description" content="Sistem Informasi Kenaikan Pangkat Polda Sumsel">
+	<meta name="keywords" content="Cek Jadwal UKP Polda Sumsel, Cek UKP Polri, UKP Polda Sumsel, Subbag Pangkat Polda Sumsel, Sikepang, Sistem Informasi Kenaikan Pangkat">
 	<meta name="author" content="SubbagPangkat BagBinkar Ro SDM Polda Sumsel">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title><?= isset($title_window) ? $title_window : 'SubbagPangkat BagBinkar Polda Sumsel - Cek Jadwal UKP' ?></title>
+	<title><?= isset($title_window) ? $title_window : 'SIKEPANG - Sistem Informasi Kenaikan Pangkat' ?></title>
 
 	<link rel="shortcut icon" href="<?= base_url(); ?>assets/images/logo_sdm_beranda.png" type="image/x-icon" />
 
